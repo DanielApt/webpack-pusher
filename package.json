@@ -1,0 +1,9 @@
+{
+  "name": "pusher_and_webpack",
+  "description": "Example of Pusher and Webpack not playing nicely together",
+  "version": "0.0.1",
+  "dependencies": {
+    "pusher": "^1.0.5",
+    "webpack": "^1.9.5"
+  }
+}
